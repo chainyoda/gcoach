@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Gajesh Naik](https://2007.io)</h1>
+<h1 href="https://2007.io" align="center">Hi 👋, I'm Gajesh Naik</h1>
 <h3 align="center">Freelance Blockchain Developer and YouTuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajesh2007&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>

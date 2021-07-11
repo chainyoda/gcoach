@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gajesh Naik</h1>
+<h1 align="center">Hi 👋, I'm [Gajesh Naik](https://2007.io)</h1>
 <h3 align="center">Freelance Blockchain Developer and YouTuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajesh2007&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>
@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://twitter.com/robogajesh" target="blank"><img src="https://img.shields.io/twitter/follow/robogajesh?logo=twitter&style=for-the-badge" alt="robogajesh" /></a> </p>
 
 - 🌱 I’m currently learning **React.js and Blockchain Development**
-
-- 📝 I write articles on [https://techwithgajesh.com](https://techwithgajesh.com)
 
 - 💬 Ask me about **solidity, blockchain, and blockchain development**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gajesh</h1>
+<h1 align="center">Gm 👋, I'm Gajesh</h1>
 <h3 align="center">Founder of Gaj Finance & TAKSH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajesh2007&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>

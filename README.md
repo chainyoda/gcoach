@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Gaj Finance & Taksh**
 
-- 🌱 I’m currently learning **ZKPs & DAOs**
-
-- 👯 I’m looking to collaborate on **DAOs**
+- 🌱 I’m currently learning **Rust & Anchor**
 
 - 💬 Ask me about **Solidity & Web3.js**
 

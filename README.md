@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajesh2007" alt="gajesh2007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/robogajesh" target="blank"><img src="https://img.shields.io/twitter/follow/robogajesh?logo=twitter&style=for-the-badge" alt="robogajesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gajeshnaik" target="blank"><img src="https://img.shields.io/twitter/follow/gajeshnaik?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
 
 - 🔭 I’m currently working on **Gaj Finance & Taksh**
 
@@ -15,13 +15,13 @@
 
 - 💬 Ask me about **Solidity & Web3.js**
 
-- 📫 How to reach me **https://twitter.com/robogajesh**
+- 📫 How to reach me **https://twitter.com/gajeshnaik**
 
 - 📄 Know about my experiences [https://linkedin.com/in/gajeshnaik](https://linkedin.com/in/gajeshnaik)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/robogajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
+<a href="https://twitter.com/gajeshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gajeshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajeshnaik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gajesh s naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gajesh s naik" height="30" width="40" /></a>
 <a href="https://discord.gg/gajesh2007#0896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gajesh2007#0896" height="30" width="40" /></a>

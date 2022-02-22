@@ -1,5 +1,5 @@
 <h1 align="center">Gm 👋, I'm Gajesh</h1>
-<h3 align="center">Chief @ Gaj & TAKSH</h3>
+<h3 align="center">Chief @ TAKSH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajesh2007&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gajeshnaik" target="blank"><img src="https://img.shields.io/twitter/follow/gajeshnaik?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
 
-- 🔭 I’m currently working on **Gaj Finance & Taksh**
+- 🔭 I’m currently working on **Taksh**
 
 - 🌱 I’m currently learning **Rust & Anchor**
 
-- 💬 Ask me about **Solidity & Web3.js**
+- 💬 Ask me about **Solidity, Rust & Anchor**
 
 - 📫 How to reach me **https://twitter.com/gajeshnaik**
 
